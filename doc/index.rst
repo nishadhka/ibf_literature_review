@@ -8,20 +8,14 @@ Data Science for Impact Based Forecasting- a review
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
-   
+   :caption: Contents:   
+
    quick-introduction
-   .. scope-ibf-africa
    review-on-ibf
    ibf-models
-   .. catastrophic-models
    data-sources-ibf
    data-science-ibf
-   .. data-production
-   .. hazard-forecasting
-   .. novel-ml-ibf
-
-
+   
 
 Indices and tables
 ==================

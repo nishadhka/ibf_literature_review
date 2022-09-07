@@ -27,7 +27,7 @@ In the process of IBF, a chain of five components are involved as indicated by Z
 IBF model combines these components especially the first three components and produce impact forecast. 
 
 IBF in East Africa context 
-^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The Studies :footcite:t:`mwangi_mainstreaming_2021` and :footcite:t:`boult_towards_2022` showed the development of drought hazard impact based forecasting for Kenya and East AFrica context. While :footcite:t:`nkiaka_exploring_2020` explored the user prespective need for IBF in West Africa. 
 

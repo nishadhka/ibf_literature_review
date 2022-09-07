@@ -11,7 +11,6 @@ IBF systems
 Data Science team at Netherland Red Cross has IBF system for following hazard types. The system follows, Trigger, manage and execute RCRC Early Action Protocols (EAP) for natural disasters. 
 
 #. Flood, https://github.com/rodekruis/IBF_FLOOD_PIPELINE
-#. Heavy Rainfall, https://github.com/rodekruis/IBF-rainfall-pipeline
 #. Tropical cyclone, https://github.com/rodekruis/Typhoon-Impact-based-forecasting-model
 #. Dengue, https://github.com/rodekruis/IBF-dengue-model
 
