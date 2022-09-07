@@ -2,7 +2,7 @@ Review on Impact Based Forecasting
 =======================================
 
 
-The paper :cite:p:`merz2020impact` reports review of about 400 research articles for assessing the background and challenges involved with IBF. The paper reports state of the art IBF for major hazard types such as 
+The paper :footcite:t:`merz2020impact` reports review of about 400 research articles for assessing the background and challenges involved with IBF. The current state of the art of IBF for major following hazard types are discussed, 
 
 #. Extratropical Windstorms
 #. Severe convective storm
@@ -20,7 +20,7 @@ with forecasting factors such as lead time, spatial aggregation, impact model in
    :scale: 100 %
    :alt: Early warning system for hazard types and its space time scales
 
-   Space time scales of various hazard types and early warning system maturity for each of the hazard types. image from :cite:t:`merz2020impact`
+   Space time scales of various hazard types and early warning system maturity for each of the hazard types. image from :footcite:t:`merz2020impact`
 
 
 The review deines the IBF as extension of traditional hazard forecast by inclusion of exposure and vulnerability of socio-economic system of the hazard likely impact location.  Converting the physical hazard forecast into socio-economic impact forecast. The following figure shows the interaction of hazard forecast and impact forecast. 
@@ -29,7 +29,7 @@ The review deines the IBF as extension of traditional hazard forecast by inclusi
    :scale: 100 %
    :alt: Impact based forecasting
 
-   Impact based forecasting. image from :cite:t:`merz2020impact`
+   Impact based forecasting. image from :footcite:t:`merz2020impact`
 
 
 Major conclusions of the review on IBF systems research are
@@ -48,7 +48,7 @@ Major conclusions of the review on IBF systems research are
 #. Estimating the impact of multi hazard and cascading effect are to be important priorities of IBF system
 
 
-.. bibliography:: 
+.. footbibliography:: 
 
 
 
