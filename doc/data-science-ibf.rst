@@ -1,6 +1,12 @@
 Data Sciences for IBF
 ======================
 
+AI and machine learning are improving weather forecasts, but they won’t replace human expert
+https://theconversation.com/ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts-182498
+
+Improving Hazard forecasting
+----------------------------
+
 
 For Exposure/Vulnerability data-production
 ------------------------------------------
@@ -12,8 +18,10 @@ PEARL — human-in-the-loop AI for land cover mapping
 https://planetarycomputer.microsoft.com/catalog
 
 
-Improving Hazard forecasting
-----------------------------
+Improve IBF forecast
+---------------------
+
+
 
 Novel ML models for IBF
 ------------------------
