@@ -1,5 +1,5 @@
-Impact Based Forecasting - Introduction
-=======================================
+Impact Based Forecasting(IBF) - Introduction
+=============================================
 
 What is IBF
 -----------
