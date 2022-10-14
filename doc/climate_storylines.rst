@@ -6,5 +6,7 @@ Climate risk management for regional/local level are based on climate informatio
 Climada framework and software tools were used in downward counterfactual analysis for generating the climate storylines on Flood disaster in EU to check the adequacy of EU Solidarity Fund :footcite:t:`ciullo_framework_2021`. There is a online tool used to generate climate storylines based bayesian networks by means of co production/participatory stakeholder involvement. https://tarokuni.shinyapps.io/eusf_bn/
 
 
+.. footbibliography::
+
 
 
