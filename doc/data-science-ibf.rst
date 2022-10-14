@@ -35,7 +35,7 @@ Novel ML models for IBF
 
 #. The book of why: the new science of cause and effect, :footcite:t:`pearl_book_2018`
 #. Machine Learning Incorporated With Causal Analysis for Short-Term Prediction of Sea Ice :footcite:t:`li_machine_2021`
-#. A downward counter-factual climate risk analysis of the impact of tropical cyclones on the European Solidarity Fund, :footcite:t:`ciullo_framework_2021`
+#. Climate storylines based on downward counter-factual method. Which is reflected as climate risk analysis of the impact of tropical cyclones on the European Solidarity Fund sustainablity, :footcite:t:`ciullo_framework_2021`
 
 
 .. footbibliography::
